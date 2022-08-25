@@ -194,13 +194,6 @@ a:hover i{
   text-align: center;
   padding:10px;
   color:#ffffff;
-  bottom: 0;
-  left: 0;
-  /* position: fixed; */
-  position: relative;
-  width: 99vw;
-  left: -3.7em;
-  bottom: -3.7em;
   /* background-image: url("footer.jpg"); */
     background-image: url("f7.jpg");
     background-size: 100% 100%;
@@ -216,4 +209,9 @@ a:hover i{
 i{
   margin-top: 1em;
   margin-left: 13em;
+}
+
+footer a {
+  display: inline-block;
+  width: 150px;
 }

@@ -3,24 +3,23 @@
 				<!-- <div style="font-size:36px; color: black;">
 				  नमस्ते 
 				</div> -->
-				<div>
-				</div>
+				
 				<div class="centerdiv">
-					<da href="#" target="_blank">
+					<a href="#" target="_blank">
 						<i class="fa"><img src="assets/images/fb.png" style="width: 50px;"></i>
-					</da>
-					<da href="#" target="_blank">
+					</a>
+					<a href="#" target="_blank">
 						<i class="fa"><img src="assets/images/ig.png" style="width: 50px;"></i>
-					</da>
-					<da href="#" target="_blank" >
+					</a>
+					<a href="#" target="_blank" >
 						<i class="fa"><img src="assets/images/twt.png" style="width: 50px;"></i>
-					</da>
-					<!-- <da href="#" target="_blank" >
+					</a>
+					<!-- <a href="#" target="_blank" >
 						<i class="fa"><img src="yt.png" style="width: 50px;"></i>
 					</a> -->
-					<da href="#" target="_blank" >
+					<a href="#" target="_blank" >
 						<i class="fa"><img src="assets/images/ku.png" style="width: 50px;"></i>
-					</da>
+					</a>
 				</div>
 			</div>
 		</footer>
